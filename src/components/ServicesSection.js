@@ -44,6 +44,9 @@ function ServicesSection() {
           </div>
         </div>
       </div>
+      <div className="image">
+        <img alt="camera" src={home2} />
+      </div>
     </div>
   );
 }
