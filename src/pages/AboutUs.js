@@ -8,7 +8,6 @@ import ServicesSection from "../components/ServicesSection";
 function AboutUs() {
   return (
     <>
-      <GlobalStyle />
       <AboutSection />
       <ServicesSection />
       <FaqSection />
